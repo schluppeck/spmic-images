@@ -1,0 +1,6 @@
+2024-01-26T17:05:40.458Z thumbsup:error Error processing C_additional/single_v2.mp4 -> media/large/C_additional/single_v2.mp4
+2024-01-26T17:05:40.458Z thumbsup:error Error: ffmpeg exited with code 234
+2024-01-26T17:05:40.462Z thumbsup:error Error processing C_additional/both_1.mp4 -> media/large/C_additional/both_1.mp4
+2024-01-26T17:05:40.462Z thumbsup:error Error: ffmpeg exited with code 234
+2024-01-26T17:05:41.382Z thumbsup:warn The following sources files were not processed:
+2024-01-26T17:05:41.382Z thumbsup:warn C_additional/single_v2.mp4,C_additional/both_1.mp4
